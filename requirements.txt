@@ -1,0 +1,4 @@
+matplotlib
+Flask
+rich
+pandas
